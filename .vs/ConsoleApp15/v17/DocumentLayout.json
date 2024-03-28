@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|C:\\Users\\PC\\source\\repos\\ConsoleApp15\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\pc\\source\\repos\\consoleapp15\\consoleapp15\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|C:\\Users\\PC\\source\\repos\\ConsoleApp15\\consoleapp15\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|C:\\Users\\PC\\source\\repos\\ConsoleApp15\\consoleapp15\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|C:\\Users\\PC\\source\\repos\\ConsoleApp15\\consoleapp15\\car2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\car2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|C:\\Users\\PC\\source\\repos\\ConsoleApp15\\consoleapp15\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAB7B53-8AFE-4C8B-B4DF-D34E83BCF45A}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\User.cs",
+              "RelativeToolTip": "ConsoleApp15\\User.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvx4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:39:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Motorcycle.cs",
+              "RelativeToolTip": "ConsoleApp15\\Motorcycle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:47:48.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Car2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Car2.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Car2.cs",
+              "RelativeToolTip": "ConsoleApp15\\Car2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:47:08.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Car.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Car.cs",
+              "RelativeToolTip": "ConsoleApp15\\Car.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:21:34.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Person.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Person.cs",
+              "RelativeToolTip": "ConsoleApp15\\Person.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:09:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeToolTip": "ConsoleApp15\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:08:28.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
